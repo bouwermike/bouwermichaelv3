@@ -1,0 +1,19 @@
+.contentBox {
+  display: flex;
+  padding-bottom: 2%;
+  align-items: center;
+  margin-left: 5%;
+  margin-right: 10%;
+  height: 100%;
+}
+
+.contentBoxColumn {
+  flex-direction: column;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  /* margin-left: 10%;
+  margin-right: 10%; */
+  height: 100%;
+}

@@ -1,0 +1,27 @@
+.workCard {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+
+  padding: 10px;
+  width: 100%;
+  box-shadow: 4px 4px 4px 3px #d8dfdc;
+  border-radius: 5px;
+}
+.workCard a {
+  color: #fe4a49;
+}
+.workCardDark {
+  margin-top: 30px;
+
+  padding: 10px;
+  width: 100%;
+  color: #ffffff;
+  background-color: #fe4a49;
+  box-shadow: 4px 4px 4px 3px #d8dfdc;
+  border-radius: 5px;
+}
+
+.workCardDark a {
+  color: #ffffff;
+}
