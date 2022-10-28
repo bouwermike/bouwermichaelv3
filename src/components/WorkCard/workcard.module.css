@@ -1,25 +1,25 @@
 .workCard {
   display: flex;
   flex-direction: column;
-  margin-top: 30px;
-
-  padding: 10px;
-  width: 100%;
+  margin-top: 2%;
+  margin-bottom: 2%;
   box-shadow: 4px 4px 4px 3px #d8dfdc;
   border-radius: 5px;
+  padding: 2%;
 }
 .workCard a {
   color: #fe4a49;
 }
 .workCardDark {
-  margin-top: 30px;
-
-  padding: 10px;
-  width: 100%;
-  color: #ffffff;
-  background-color: #fe4a49;
+  display: flex;
+  flex-direction: column;
+  margin-top: 2%;
+  margin-bottom: 2%;
   box-shadow: 4px 4px 4px 3px #d8dfdc;
   border-radius: 5px;
+  color: #ffffff;
+  background-color: #fe4a49;
+  padding: 2%;
 }
 
 .workCardDark a {

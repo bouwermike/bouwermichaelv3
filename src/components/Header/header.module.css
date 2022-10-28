@@ -1,8 +1,6 @@
 .headerBox {
-  position: relative;
   width: 100%;
   box-shadow: 0 2px 4px 0 #d8dfdc;
-  z-index: 1;
   background-color: #ffffff;
 }
 

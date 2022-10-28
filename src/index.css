@@ -51,3 +51,12 @@ p a:hover {
   color: #fe4a49;
   text-decoration: underline;
 }
+
+.workListBox {
+display: flex;
+
+}
+
+.workList {
+  margin: 3%;
+}
