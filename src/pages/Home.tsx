@@ -20,7 +20,7 @@ const Home = () => {
             </p>
             <p>
               I enjoy turning data into executable narrative - breaking down
-              complex problems into simple stories that drive a a product
+              complex problems into simple stories that drive a product
               towards market-fit, user delight, and scalable commercial success.
             </p>
           </div>
